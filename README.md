@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋
+I'm Collins, a passionate developer and mentor who focuses on continuous learning and collaboration. Welcome to my GitHub profile!
 
-<!--
-**collinspg/collinspg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on:
+Completed: The CSE Motors project, where I applied MVC architecture and enhanced my web development skills as part of the CSE340 course.
+Mentoring and helping others achieve their goals through coding and tech.
+🌱 I’m currently learning:
+Advanced JavaScript and backend technologies.
+Conflict resolution and mediation as part of my studies in PEACE 101.
+👯 I’m looking to collaborate on:
+Open-source projects that focus on community and educational tools.
+Web development projects involving modern frameworks and best practices.
+🤔 I’m looking for help with:
+Best practices in cloud deployment for scalable web applications.
+💬 Ask me about:
+Web development tips, mentoring advice, or anything related to the GitHub workflow!
+📫 How to reach me:
+Email
+LinkedIn
+😄 Pronouns:
+He/Him
+⚡ Fun fact:
+I love exploring new coding challenges and sharing what I learn with others.
