@@ -15,8 +15,9 @@ Best practices in cloud deployment for scalable web applications.
 💬 Ask me about:
 Web development tips, mentoring advice, or anything related to the GitHub workflow!
 📫 How to reach me:
-Email
-LinkedIn
+Email: collinsokolie90@gmail.com
+WhatsApp: +2348175138826
+LinkedIn: Collins Okolie
 😄 Pronouns:
 He/Him
 ⚡ Fun fact:
