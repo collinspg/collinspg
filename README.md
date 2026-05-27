@@ -48,4 +48,4 @@ Contributed to real-world internship projects by implementing:
 
 - LinkedIn: [linkedin.com/in/chibuike-collins-okolie](https://linkedin.com/in/chibuike-collins-okolie)
 - Email: Collinsokolie90@gmail.com
-- - Resume: [View Resume](https://drive.google.com/file/d/1MJL8uYP5LfOUj1YnbqyZqQ1SiNH6mF1f/view?usp=sharing)
+- Resume: [View Resume](https://drive.google.com/file/d/1MJL8uYP5LfOUj1YnbqyZqQ1SiNH6mF1f/view?usp=sharing)
